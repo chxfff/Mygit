@@ -1,0 +1,2 @@
+# Mygit
+Daily learning arrangement
